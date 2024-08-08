@@ -30,4 +30,4 @@ except ValueError:
 else:
     # Calculate the gross pay
     pay = gross_pay(hours, rate)
-    print("Pay: ", round(pay, 2))
+    print("Pay:", round(pay, 2))
