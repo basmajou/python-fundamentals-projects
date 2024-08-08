@@ -1,4 +1,4 @@
-# Dice Rolling
+# Gross Pay with Overtime
 Calculates an employee's gross pay based on the number of hours worked and the hourly pay rate.
 
 ## Key features:
