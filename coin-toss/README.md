@@ -10,11 +10,10 @@ Simulates a coin toss.
 ## Example Output 1
 
 ```bash
-Tails
+Heads
 ```
 ## Example Output 2
 
 ```bash
-Heads
+Tails
 ```
-
