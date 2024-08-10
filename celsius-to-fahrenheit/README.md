@@ -2,6 +2,8 @@
 
 Converts temperature from Celsius to Fahrenheit.
 
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/celsius-to-fahrenheit-flowchart.pdf)
+
 ## Key features:
 
 - Error handling for invalid input (non-numeric values).
