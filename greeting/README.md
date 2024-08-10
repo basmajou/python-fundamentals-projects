@@ -18,3 +18,4 @@ Enter your name: Basma Yousef
 Hello Basma Yousef.
 welcome to the Python >_<
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/greeting-flowchart.pdf)
