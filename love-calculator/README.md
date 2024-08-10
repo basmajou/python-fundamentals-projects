@@ -1,10 +1,10 @@
 # Love Calculator
-Determines whether a given year is a leap year or not.
+Calculates the love score based on the names of two people.
 
 ## Key features:
-- Implements the leap year logic based on divisibility rules.
-- Handles potential input errors.
-- Provides clear output indicating whether the year is a leap year or not.
+- Combines the names and counts occurrences of specific letters.
+- Provides a playful interpretation of the love score.
+- Offers an optional random love score generation using the random module.
 
 ## Example Input 1
 ```bash
