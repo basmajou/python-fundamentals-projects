@@ -1,7 +1,12 @@
 # Python Fundamentals Projects
-Python projects to solidify core programming concepts.
+Python projects to solidify core programming concepts:
 
-## main content
+- **Variables, Expressions, and Statements:** Understanding how to store and manipulate data.
+- **Conditional Execution:** Making decisions in code based on conditions.
+- **Functions:** Creating reusable code blocks.
+- **Iterations:** Repeating tasks efficiently.
+
+## Main Content
 - [BMI Calculator](https://github.com/basmajou/python-fundamentals-projects/tree/main/bmi-calculator)
 - [Celsius to Fahrenheit](https://github.com/basmajou/python-fundamentals-projects/tree/main/celsius-to-fahrenheit)
 - [Coin Toss](https://github.com/basmajou/python-fundamentals-projects/tree/main/coin-toss)
