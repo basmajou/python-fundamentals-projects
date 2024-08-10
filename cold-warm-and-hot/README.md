@@ -2,6 +2,8 @@
 
 Categorizes a given temperature into "Hot", "Warm", or "Cold".
 
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/cold-warm-and-hot-flowchart.pdf)
+
 ## Key features:
 - Temperature classification function: Determines the temperature category based on the input value.
 - Input validation: Ensures the user enters a valid numeric value for the temperature.
