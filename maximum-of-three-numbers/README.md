@@ -17,3 +17,4 @@ Enter 3rd number: 80
 ```bash
 Max number is: 80
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/maximum-of-three-numbers-flowchart.pdf)
