@@ -25,3 +25,4 @@ Enter year: 2022
 ```bash
 Not leap year.
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/leap-year-flowchart.pdf)
