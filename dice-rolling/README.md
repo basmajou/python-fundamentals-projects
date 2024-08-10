@@ -18,6 +18,6 @@ Roll the dice again? (Y/N) y
 ```bash
 Dice1: 3
 Dice2: 3
-Roll the dice again? (Y/N) 
+Roll the dice again? (Y/N) n
 ```
 ## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/dice-rolling-flowchart.pdf)
