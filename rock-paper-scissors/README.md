@@ -9,13 +9,13 @@ Simulates a game of rock, paper, scissors against the computer.
 - Clears the screen between rounds for better user experience.
 
 
-## Example Input 
+## Example Input 1
 ```bash
 rock, paper, scissors game:
 
 Enter a choice (rock(R), paper(P), scissors(S)): Paper
 ```
-## Example Output 
+## Example Output 1
 
 ```bash
 You chose paper, computer chose paper.
