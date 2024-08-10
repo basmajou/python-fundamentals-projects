@@ -44,3 +44,4 @@ Enter your lover name: Kai
 ```bash
 Your love score is: 0, you go together like coke and mentos.
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/love-calculator-flowchart.pdf)
