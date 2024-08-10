@@ -21,3 +21,4 @@ Password Generator..
 ```bash
     Your password is: 1v-X2-0#623!
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/password-generator-flowchart.pdf)
