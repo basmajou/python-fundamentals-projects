@@ -40,3 +40,4 @@ Rock smashes scissors! You win!
 Play again (Y/N)? n
 End game :)
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/rock-paper-scissors-flowchart.pdf)
