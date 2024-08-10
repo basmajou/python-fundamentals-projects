@@ -1,7 +1,6 @@
 # Dice Rolling
 Simulates rolling two dice multiple times.
 
-## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/dice-rolling-flowchart.pdf)
 
 ## Key features:
 - Uses the random module to generate random numbers for dice rolls.
@@ -21,3 +20,4 @@ Dice1: 3
 Dice2: 3
 Roll the dice again? (Y/N) 
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/dice-rolling-flowchart.pdf)
