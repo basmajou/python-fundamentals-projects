@@ -18,3 +18,4 @@ Cat
 ```bash
 Your group name could be: Blue Cat
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/group-name-generator-flowchart.pdf)
