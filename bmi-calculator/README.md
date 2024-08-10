@@ -8,6 +8,8 @@ Calculates a user's Body Mass Index (BMI) based on their height (in meters) and 
 - BMI calculation using the standard formula.
 - Clear and formatted output displaying the calculated BMI and corresponding category.
 
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/bmi-calculator-flowchart.pdf)
+
 ## Example Input 1
 ```bash
 Enter your height in m: 1.68
