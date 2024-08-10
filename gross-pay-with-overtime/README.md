@@ -16,3 +16,4 @@ Enter Rate: 120
 ```bash
 Pay: 3600.0 
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/gross-pay-with-overtime-flowchart.pdf)
