@@ -116,4 +116,4 @@ Buzz
 99
 Fizz
 ```
-
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/fizz-buzz-flowchart.pdf)
