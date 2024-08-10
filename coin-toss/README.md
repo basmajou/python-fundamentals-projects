@@ -2,7 +2,6 @@
 
 Simulates a coin toss.
 
-## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/coin-toss-flowchart.pdf)
 
 ## Key features:
 
@@ -19,3 +18,4 @@ Heads
 ```bash
 Tails
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/coin-toss-flowchart.pdf)
