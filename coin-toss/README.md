@@ -1,4 +1,4 @@
-# Simple Coin Toss
+# Coin Toss
 
 Simulates a coin toss.
 
