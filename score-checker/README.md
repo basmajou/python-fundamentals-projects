@@ -25,3 +25,4 @@ Enter score: .68
 ```bash
 D
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/score-checker-flowchart.pdf)
