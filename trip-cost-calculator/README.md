@@ -25,3 +25,4 @@ Welcome to the Trip Cost Calculator.
 ```bash
         Total Cost: $3060.0
 ```
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/trip-cost-calculator-flowchart.pdf)
