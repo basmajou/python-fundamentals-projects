@@ -2,7 +2,6 @@
 
 Converts temperature from Celsius to Fahrenheit.
 
-## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/celsius-to-fahrenheit-flowchart.pdf)
 
 ## Key features:
 
@@ -19,3 +18,5 @@ Enter Temperature in Celsius: 33
 ```bash
 33.0 Celsius = 91.4 Fahrenheit
 ```
+
+## [Flow Chart](https://github.com/basmajou/python-fundamentals-projects/blob/main/assets/celsius-to-fahrenheit-flowchart.pdf)
